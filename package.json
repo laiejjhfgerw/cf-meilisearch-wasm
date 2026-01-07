@@ -1,7 +1,10 @@
 {
-  "name": "cf-meilisearch-wasm",
+  "name": "meilisearch-cloudflare-pages",
   "version": "1.0.0",
   "dependencies": {
-    "meilisearch-wasm": "^0.27.0"
+    "meilisearch-wasm": "^0.37.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240208.0"
   }
 }
